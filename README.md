@@ -1,4 +1,4 @@
 this created By Mino
-@i4mxcrackers 
-@i4mxcoders
-Legen Of Mino
+Telegram : @i4m_mino
+telegram Channels : @i4mxcrackers   @i4mxcoders
+Legend Of Mino
