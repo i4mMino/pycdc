@@ -1,5 +1,4 @@
-# Codex By KangEhem
-# Udah Tinggal pake aja, gak usah di recode:v
+#Edited By Mino 
 import re
 import sys
 import os
