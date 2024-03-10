@@ -30,7 +30,7 @@ def code_to_bytecode(code, mtime=0, source_size=0):
     data.extend(marshal.dumps(code))
     return data
 
-def minopyc(byte_code, file):
+def dump_to_pyc(byte_code, file):
     pyc_code = code_to_bytecode(byte_code, time.time())
     with open(file, mode="wb") as f:
         f.write(pyc_code)
